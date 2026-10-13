@@ -1125,25 +1125,6 @@
     "skill": "Skill"
   },
   {
-    "name": "seulee26/mckinsey-pptx",
-    "url": "https://github.com/seulee26/mckinsey-pptx",
-    "repo": "seulee26/mckinsey-pptx",
-    "category": "PPTX-Native Generation Workflows",
-    "categoryZh": "PPTX 库生成式 PPT 方案",
-    "type": "Plugin",
-    "output": "PPTX",
-    "description": "Claude Code plugin for McKinsey-style PPTX generation with consulting slide templates and a template-selection subagent.",
-    "descriptionZh": "用于生成咨询风 PPTX 的 Claude Code plugin，内置咨询幻灯片模板和模板选择 subagent。",
-    "tags": [
-      "PPTX-native",
-      "Template",
-      "Consulting",
-      "Plugin"
-    ],
-    "editable": "Editable",
-    "skill": "Skill"
-  },
-  {
     "name": "zouchenzhen/thesis-defense-pptx-skill",
     "url": "https://github.com/zouchenzhen/thesis-defense-pptx-skill",
     "repo": "zouchenzhen/thesis-defense-pptx-skill",
