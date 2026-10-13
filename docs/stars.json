@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-10-13T00:38:48Z",
   "source": "github-api",
-  "repoCount": 102,
+  "repoCount": 101,
   "stars": {
     "1weiho/open-slide": 9204,
     "Akxan/ppt-agent-skill": 162,
@@ -82,7 +82,6 @@
     "ryanbbrown/revealjs-skill": 415,
     "sandeco/mira-animator": 219,
     "scanny/python-pptx": 3556,
-    "seulee26/mckinsey-pptx": 597,
     "singerla/pptx-automizer": 249,
     "sligter/LandPPT": 3618,
     "snowmanzhuang/yixueAIganhuo-PPT": 198,
@@ -107,7 +106,5 @@
     "zouchenzhen/thesis-defense-pptx-skill": 268
   },
   "missing": [],
-  "failures": {
-    "seulee26/mckinsey-pptx": "seulee26/mckinsey-pptx: HTTP Error 404: Not Found"
-  }
+  "failures": {}
 }

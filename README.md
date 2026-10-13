@@ -125,7 +125,6 @@ npx -y skills@latest add ningzimu/awesome-ai-ppt \
 | [GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) | 通过结构化文本编辑和内置模板生成可编辑 PowerPoint 的 python-pptx skill；其中模板仅限个人、研究和非商业教育用途。 | PPTX-native, 模板, 自动化 | 可编辑 | Skill | 3,539 |
 | [YOOTeam/OpenPPT](https://github.com/YOOTeam/OpenPPT) | 开源 AI PPT 编辑器，覆盖生成、导入、在线编辑、演示播放和 Office 兼容 PPTX 导出。 | PPTX-native, 应用, Editor, 模板 | 可编辑 | 否 | 1,098 |
 | [OpenDCAI/Paper2Any](https://github.com/OpenDCAI/Paper2Any) | 面向论文的多模态工作流，可生成可编辑科研图、图解、海报和幻灯片，包含 Paper2PPT、PDF2PPT 和 Image2PPT。 | PPTX-native, Academic, 转换, 图片式 | 可编辑 | 否 | 2,806 |
-| [seulee26/mckinsey-pptx](https://github.com/seulee26/mckinsey-pptx) | 用于生成咨询风 PPTX 的 Claude Code plugin，内置咨询幻灯片模板和模板选择 subagent。 | PPTX-native, 模板, Consulting, Plugin | 可编辑 | Skill | 597 |
 | [zouchenzhen/thesis-defense-pptx-skill](https://github.com/zouchenzhen/thesis-defense-pptx-skill) | 从 LaTeX 或 PDF 论文和 PPTX 模板生成可编辑论文答辩 PowerPoint 的 Claude Code skill。 | PPTX-native, Academic, 模板, PDF | 可编辑 | Skill | 268 |
 | [Sven-LI-sankyuu/presentation-skills](https://github.com/Sven-LI-sankyuu/presentation-skills) | 围绕精修、可编辑、可验证 PowerPoint deck 生成工作流的演示 skill 集合。 | PPTX-native, 模板, 自动化, QA | 可编辑 | Skill | 174 |
 | [jitOffice/aippt](https://github.com/jitOffice/aippt) | Vue AI 演示编辑器，支持多模型生成、Canvas 编辑，并通过 PptxGenJS 导出 PPTX。 | PPTX-native, 应用, Editor, 模板 | 可编辑 | 否 | 73 |
